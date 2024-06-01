@@ -1,2 +1,1 @@
-Feature file 
-Hi all
+added a new image
